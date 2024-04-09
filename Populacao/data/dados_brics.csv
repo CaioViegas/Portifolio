@@ -1,0 +1,6 @@
+pais,continente,area,indice_fecundidade,mediana_idade,populacao,mudanca_anual,mudanca_populacao,densidade,taxa_migracao,populacao_urbana,parcela_mundial
+Brazil,Latin America,8358140,1.6,34.0,216422446,0.52,1108948,26,6000,88.0,2.69
+China,Asia,9388211,1.2,39.0,1425671352,-0.02,-215985,152,-310220,65.0,17.72
+India,Asia,2973190,2.0,28.0,1428627663,0.81,11454490,481,-486136,36.0,17.76
+Russia,Europe,16376870,1.5,39.0,144444359,-0.19,-268955,9,-136414,75.0,1.8
+South Africa,Africa,1213090,2.3,28.0,60414495,0.87,520610,50,58496,69.0,0.75
